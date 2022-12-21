@@ -42,7 +42,7 @@ export function NavBar() {
       >
         <h3>Sorting Algorithms Visualizer</h3>
         <a
-          href="https://github.com/jose-cipriano/algorithm-master"
+          href="https://github.com/jose-cipriano/sort-algorithm"
           target="_blank"
         >
           <AiFillGithub style={{ fontSize: "1.5rem" }} />
