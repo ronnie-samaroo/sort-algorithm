@@ -1,7 +1,7 @@
 {
   "name": "sort-algorithm",
   "version": "0.0.0",
-  "author": "Sergio",
+  "author": "Jose Cipriano",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
