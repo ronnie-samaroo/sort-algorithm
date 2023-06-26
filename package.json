@@ -1,7 +1,7 @@
 {
   "name": "sort-algorithm",
   "version": "0.0.0",
-  "author": "Jose Cipriano",
+  "author": "Ronnie Samaroo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

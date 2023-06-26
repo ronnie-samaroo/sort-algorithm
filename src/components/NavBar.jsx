@@ -41,21 +41,20 @@ export function NavBar() {
         }}
       >
         <h3>Sorting Algorithms Visualizer</h3>
+        <i style={{ textAlign: "center"}}>
+        This is a visualization for a sorting algorithm. Take a look at the core algorithm here and please follow me on {" "}
+          <a href="https://github.com/ronnie-samaroo" target="_blank">
+            Github
+          </a>{" "}
+          if you find it helpful.
+        </i>
         <a
-          href="https://github.com/jose-cipriano/sort-algorithm"
+          href="https://github.com/ronnie-samaroo/sort-algorithm"
           target="_blank"
         >
           <AiFillGithub style={{ fontSize: "1.5rem" }} />
         </a>
       </div>
-      <i style={{ textAlign: "center" }}>
-        This is to visualize for sorting algorithm. Take a look at core
-        algorithm here and please follow me on my{" "}
-        <a href="https://github.com/jose-cipriano" target="_blank">
-          Github
-        </a>{" "}
-        if you think it's really helpful
-      </i>
       <AppBar position="static" color="default">
         <Tabs
           value={algorithm}
